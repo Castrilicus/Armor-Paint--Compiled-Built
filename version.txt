@@ -1,0 +1,3 @@
+ArmorPaint v.0.8dev (784de44)
+Compilied Redistribution
+
